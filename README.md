@@ -36,7 +36,7 @@ where _click_ is the label, behavior features in the user feature field are extr
   
   
   
-2. Suppose the download path is: ~/ijcai592_dataset, then run: 
+2. Suppose the download path is: ~/QueryQR_dataset, then run: 
 ```bash
-python train_tfrecord.py --buckets "~/ijcai592_dataset/" --checkpointDir "~/log/"
+python train_tfrecord.py --buckets "~/QueryQR_dataset/" --checkpointDir "~/log/"
 ```
